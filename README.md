@@ -34,7 +34,7 @@ Do not work directly towards Stampen's git repository. Deliver a link to your ow
 
 - Implement unit tests using Jest
 - Implement the above requirements on a "per user" basis
-  - Finding a way to query the API as different users
+  - Find a simple way to query the API as different users that doesn't require the user to sign up
   - Finding a way to identify these users, keeping track of which user has queried which data, etc.
 
 ---
@@ -44,6 +44,7 @@ Do not work directly towards Stampen's git repository. Deliver a link to your ow
 - Use Typescript
 - Use an in-memory cache or DB to store state and data
 - Aside from the Start Wars API, avoid external dependencies on API's or Database services. Everything should be contained within this application and able to run locally with no setup.
+- All responses should be in JSON format
 
 ---
 
