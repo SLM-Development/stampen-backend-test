@@ -7,6 +7,7 @@ However, we've encountered that the API itself is pretty cumbersome to work with
 Your job is to write a **RESTFUL wrapper API** to make the life of our frontend developers a bit brighter.
 
 **IMPORTANT**
+
 Do not work directly towards Stampen's git repository. Deliver a link to your own, open repository that can be run locally.
 
 ---
