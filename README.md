@@ -43,7 +43,7 @@ Do not work directly towards Stampen's git repository. Deliver a link to your ow
 
 - Use Typescript
 - Use an in-memory cache or DB to store state and data
-- Aside from the Start Wars API, avoid external dependencies on API's or Database services. Everything should be contained within this application and able to run locally with no setup.
+- Aside from the Start Wars API, avoid external dependencies on API's or Database services. Everything should be contained within this application and able to run locally with no setup (aside from an npm install / ci)
 - All responses should be in JSON format
 
 ---
